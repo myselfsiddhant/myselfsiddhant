@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfsiddhant&label=Profile%20views&color=0e75b6&style=flat" alt="myselfsiddhant" /> </p>
 
-- 🔭 I’m currently working on **HealthCare Management System**
-
 - 🌱 I’m currently learning **Java, DSA**
 
 - 📫 Reach me - **siddhantsinghx@gmail.com**
