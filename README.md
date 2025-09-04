@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhant</h1>
-<h3 align="center">I am a 2nd Year B.Tech CSE Student passionate about technology and software development.</h3>
+<h3 align="center">I am a 3rd Year B.Tech CSE Student passionate about technology and software development.</h3>
 
 - 📫 Reach me - **siddhantpriyamsingh@gmail.com**
 
